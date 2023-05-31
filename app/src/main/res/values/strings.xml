@@ -1,0 +1,90 @@
+<resources>
+    <string name="app_name">JumboSouq</string>
+    <string name="welcome_dohasooq">WELCOME TO Jumbo Souq </string>
+
+    <string name="nameerror">Enter email address</string>
+    <string name="passerror">Enter Password</string>
+    <!--Common toast-->
+    <string name="nolink">No link exists</string>
+    <string name="noonternate">Connection not found. Please check your internet connection</string>
+    <string name="errormsg">Connection Error, Please try again later</string>
+    <string name="back">Tap back again to exit</string>
+    <string name="nodata">No Data</string>
+    <string name="found">Found</string>
+    <string name="typehere">Type here ...</string>
+    <string name="loading">Loading Data, Please wait...</string>
+    <string name="searchhere">Search here ...</string>
+    <string name="facebook_app_id">224291749122064</string>
+    <string name="fb_login_protocol_scheme">fb224291749122064</string>
+    <string name="defauldet_web_client_id">167305285973-amqtclnqo1qdi568rv2bfosf95cgov0i.apps.googleusercontent.com</string>
+    <string name="strike_text"><strike>Regular Price:QAR 899</strike></string>
+    <string name="line">Price  <strike> QAR %1$s </strike> </string>
+    <string name="line_regular">Regular Price : <strike> QAR %1$s </strike> </string>
+
+    <string name="line_regular_text"> <strike> QAR %1$s </strike></string>
+
+    <string-array name="list_city">
+        <item>Doha</item>
+        <item>Abu az Zuluf</item>
+        <item>Abu Thaylah</item>
+        <item>Ad Dawhah al Jadidah</item>
+        <item>Al Arish</item>
+        <item>Al Bida ash Sharqiyah</item>
+        <item>Al Ghanim</item>
+        <item>Al Ghuwariyah</item>
+        <item>Al Hilal al Gharbiyah</item>
+        <item>Al Hilal ash Sharqiyah</item>
+        <item>Al Hitmi</item>
+        <item>Al Jasrah</item>
+        <item>Al Jumaliyah</item>
+        <item>Al Ka biyah</item>
+        <item>Al Khalifat</item>
+        <item>Al Khor</item>
+        <item>Al Khawr</item>
+        <item>Al Khuwayr</item>
+        <item>Al Mafjar</item>
+        <item>Al Qa abiyah</item>
+        <item>Al Wakrah second city</item>
+        <item>Al Adhbah</item>
+        <item>An Najmah</item>
+        <item>Ar Rakiyat</item>
+        <item>Al Rayyan</item>
+        <item>Ar Ru ays</item>
+        <item>As Salatah</item>
+        <item>As Salatah al Jadidah</item>
+        <item>As Sani</item>
+        <item>As Sawq</item>
+        <item>Ath Thaqab</item>
+        <item>Blare</item>
+        <item>Dukhan</item>
+        <item>Ras Laffan Industrial City</item>
+        <item>Umm Bab</item>
+        <item>Umm Sa id</item>
+        <item>Umm Salal Ali</item>
+        <item>Umm Salal Mohammed</item>
+    </string-array>
+
+    <string-array name="gender_array">
+        <item>Select Gender</item>
+        <item>Male</item>
+        <item>Female</item>
+        <item>Others</item>
+    </string-array>
+
+    <string-array name="delivery_times">
+        <item>Please Select Slot</item>
+        <item>11:00 AM - 3:00 PM</item>
+        <item>3:00 PM - 9:00 PM</item>
+    </string-array>
+
+    <string name="pay">Place Order</string>
+
+    <string name="left_arrow">M300,70 l 0,70 -70,-70 0,0 70,-70z</string>
+    <string name="right_arrow">M300,70 l 0,-70 70,70 0,0 -70,70z</string>
+
+
+    <string name="default_notification_channel_id" translatable="false">jumbo_app_channel</string>
+    <string name="fcm_message">Jumbo App</string>
+
+
+</resources>

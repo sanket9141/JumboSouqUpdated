@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="txt_20sp">20sp</dimen>
+    <dimen name="txt_14sp">14sp</dimen>
+    <dimen name="txt_12sp">12sp</dimen>
+    <dimen name="txt_10sp">10sp</dimen>
+    <dimen name="padding_20">20dp</dimen>
+    <dimen name="padding_10">10dp</dimen>
+    <dimen name="padding_5">5dp</dimen>
+    <dimen name="hight_40">40dp</dimen>
+    <dimen name="hight_50">50dp</dimen>
+    <dimen name="hight_100">100dp</dimen>
+    <dimen name="padding_15">15dp</dimen>
+    <dimen name="hight_60">60dp</dimen>
+    <dimen name="hight_120">120dp</dimen>
+    <dimen name="viwe_1">1dp</dimen>
+    <dimen name="hight_300">300dp</dimen>
+    <dimen name="hight80">80dp</dimen>
+</resources>
